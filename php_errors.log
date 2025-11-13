@@ -1,0 +1,270 @@
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 132
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 190
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 191
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 192
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 193
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: result in C:\wamp64\www\new shoes house\men_collection.php on line 210
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 132
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 190
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 191
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 192
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 193
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: result in C:\wamp64\www\new shoes house\men_collection.php on line 210
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 132
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 190
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 191
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 192
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 193
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:50 UTC] PHP Notice:  Undefined variable: result in C:\wamp64\www\new shoes house\men_collection.php on line 210
+[14-Sep-2025 15:26:50 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:50 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 132
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 190
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 191
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 192
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: active_tag in C:\wamp64\www\new shoes house\men_collection.php on line 193
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:26:52 UTC] PHP Notice:  Undefined variable: result in C:\wamp64\www\new shoes house\men_collection.php on line 210
+[14-Sep-2025 15:26:52 UTC] PHP Stack trace:
+[14-Sep-2025 15:26:52 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:27:09 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 131
+[14-Sep-2025 15:27:09 UTC] PHP Stack trace:
+[14-Sep-2025 15:27:09 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:27:53 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 131
+[14-Sep-2025 15:27:53 UTC] PHP Stack trace:
+[14-Sep-2025 15:27:53 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:27:53 UTC] PHP Notice:  Undefined variable: cart_count in C:\wamp64\www\new shoes house\men_collection.php on line 131
+[14-Sep-2025 15:27:53 UTC] PHP Stack trace:
+[14-Sep-2025 15:27:53 UTC] PHP   1. {main}() C:\wamp64\www\new shoes house\men_collection.php:0
+[14-Sep-2025 15:45:12 UTC] Received add_to_cart request for product_id: 6
+[14-Sep-2025 15:45:12 UTC] Cart updated: Array
+(
+    [4] => 1
+    [8] => 1
+    [28] => 1
+    [6] => 1
+)
+
+[14-Sep-2025 15:45:26 UTC] Received add_to_cart request for product_id: 2
+[14-Sep-2025 15:45:26 UTC] Cart updated: Array
+(
+    [2] => 1
+)
+
+[14-Sep-2025 15:45:28 UTC] Received add_to_cart request for product_id: 1
+[14-Sep-2025 15:45:28 UTC] Cart updated: Array
+(
+    [2] => 1
+    [1] => 1
+)
+
+[14-Sep-2025 15:48:55 UTC] Received add_to_cart request for product_id: 24
+[14-Sep-2025 15:48:55 UTC] Cart updated: Array
+(
+    [2] => 1
+    [1] => 1
+    [24] => 1
+)
+
+[14-Sep-2025 16:20:59 UTC] Received add_to_cart request for product_id: 15
+[14-Sep-2025 16:20:59 UTC] Cart updated: Array
+(
+    [15] => 1
+)
+
+[14-Sep-2025 16:48:20 UTC] Received add_to_cart request for product_id: 7
+[14-Sep-2025 16:48:20 UTC] Cart updated: Array
+(
+    [7] => 1
+)
+
+[14-Sep-2025 16:48:23 UTC] Received add_to_cart request for product_id: 9
+[14-Sep-2025 16:48:23 UTC] Cart updated: Array
+(
+    [7] => 1
+    [9] => 1
+)
+
+[14-Sep-2025 16:48:29 UTC] Received add_to_cart request for product_id: 18
+[14-Sep-2025 16:48:29 UTC] Cart updated: Array
+(
+    [7] => 1
+    [9] => 1
+    [18] => 1
+)
+
+[14-Sep-2025 16:48:33 UTC] Received add_to_cart request for product_id: 21
+[14-Sep-2025 16:48:33 UTC] Cart updated: Array
+(
+    [7] => 1
+    [9] => 1
+    [18] => 1
+    [21] => 1
+)
+
+[14-Sep-2025 16:48:39 UTC] Received add_to_cart request for product_id: 24
+[14-Sep-2025 16:48:39 UTC] Cart updated: Array
+(
+    [7] => 1
+    [9] => 1
+    [18] => 1
+    [21] => 1
+    [24] => 1
+)
+
+[14-Sep-2025 16:48:42 UTC] Received add_to_cart request for product_id: 32
+[14-Sep-2025 16:48:42 UTC] Cart updated: Array
+(
+    [7] => 1
+    [9] => 1
+    [18] => 1
+    [21] => 1
+    [24] => 1
+    [32] => 1
+)
+
+[14-Sep-2025 16:55:44 UTC] Received add_to_cart request for product_id: 14
+[14-Sep-2025 16:55:44 UTC] Cart updated: Array
+(
+    [14] => 1
+)
+
+[17-Sep-2025 03:17:50 UTC] Received add_to_cart request for product_id: 2
+[17-Sep-2025 03:17:50 UTC] Cart updated: Array
+(
+    [18] => 1
+    [2] => 1
+)
+
+[17-Sep-2025 03:19:12 UTC] Received add_to_cart request for product_id: 14
+[17-Sep-2025 03:19:12 UTC] Cart updated: Array
+(
+    [18] => 1
+    [2] => 1
+    [31] => 1
+    [14] => 1
+)
+
+[19-Sep-2025 06:01:59 UTC] Received add_to_cart request for product_id: 15
+[19-Sep-2025 06:01:59 UTC] Cart updated: Array
+(
+    [15] => 1
+)
+
+[19-Sep-2025 06:02:14 UTC] Received add_to_cart request for product_id: 19
+[19-Sep-2025 06:02:14 UTC] Cart updated: Array
+(
+    [15] => 1
+    [19] => 1
+)
+
+[21-Sep-2025 06:13:41 UTC] Received add_to_cart request for product_id: 33
+[21-Sep-2025 06:13:41 UTC] Cart updated: Array
+(
+    [33] => 1
+)
+
+[22-Sep-2025 06:21:41 UTC] Received add_to_cart request for product_id: 29
+[22-Sep-2025 06:21:41 UTC] Cart updated: Array
+(
+    [29] => 1
+)
+
+[23-Sep-2025 04:44:15 UTC] Received add_to_cart request for product_id: 35
+[23-Sep-2025 04:44:15 UTC] Cart updated: Array
+(
+    [35] => 1
+)
+
+[23-Sep-2025 04:44:18 UTC] Received add_to_cart request for product_id: 36
+[23-Sep-2025 04:44:18 UTC] Cart updated: Array
+(
+    [35] => 1
+    [36] => 1
+)
+
+[23-Sep-2025 05:32:35 UTC] Received add_to_cart request for product_id: 36
+[23-Sep-2025 05:32:35 UTC] Cart updated: Array
+(
+    [36] => 1
+)
+
+[23-Sep-2025 05:32:38 UTC] Received add_to_cart request for product_id: 35
+[23-Sep-2025 05:32:38 UTC] Cart updated: Array
+(
+    [36] => 1
+    [35] => 1
+)
+
+[23-Sep-2025 05:32:49 UTC] Received add_to_cart request for product_id: 37
+[23-Sep-2025 05:32:49 UTC] Cart updated: Array
+(
+    [36] => 1
+    [35] => 1
+    [37] => 1
+)
+
+[23-Sep-2025 05:33:09 UTC] Received add_to_cart request for product_id: 38
+[23-Sep-2025 05:33:09 UTC] Cart updated: Array
+(
+    [36] => 1
+    [35] => 1
+    [37] => 1
+    [38] => 1
+)
+
+[15-Oct-2025 16:18:51 UTC] Received add_to_cart request for product_id: 36
+[15-Oct-2025 16:18:51 UTC] Cart updated: Array
+(
+    [36] => 1
+)
+
+[13-Nov-2025 09:43:21 UTC] Received add_to_cart request for product_id: 1
+[13-Nov-2025 09:43:21 UTC] Cart updated: Array
+(
+    [1] => 1
+)
+
